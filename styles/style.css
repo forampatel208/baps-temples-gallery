@@ -43,7 +43,7 @@ h1 {
 
 .hero-section {
     position: relative;
-    background: url('images/hero.jpg') no-repeat center center/cover;
+    background: url('/images/hero.jpg') no-repeat center center/cover;
     min-height: 70vh;
 }
 
